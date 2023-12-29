@@ -11,3 +11,10 @@
 [Clique aqui para acessar a página do Projeto](https://dia2-desafio.netlify.app/)
 
 ![gif](https://github.com/Maarii72/Desafio-Rocketseat-css3/blob/main/dia2gif.gif)
+
+## Dia 3
+Gerador de clip-path online, para auxiliar nas bordas: [bennettfeely](https://bennettfeely.com/clippy/)
+
+[Clique aqui para acessar a página do Projeto](https://dia3-desafio.netlify.app/)
+
+![gif](https://github.com/Maarii72/Desafio-Rocketseat-css3/blob/main/dia3gif.gif)
