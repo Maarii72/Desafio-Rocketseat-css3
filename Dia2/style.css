@@ -1,0 +1,99 @@
+*{
+  margin: 0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: black;
+}
+
+.container{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+p{
+  width: 50vw; 
+  font-weight: bold;
+  font-size: 2rem;
+  color: #ffffff;
+}
+
+span:nth-child(1){
+  margin-left: 5px;
+  position: absolute;
+  color: #8234e8;
+  opacity: 0;
+  animation-name: textoAnimado;
+  animation-duration: 1s;
+  animation-delay: 2s;
+}
+
+span:nth-child(2){
+  margin-left: 5px;
+  position: absolute;
+  color: #8234e8;
+  opacity: 0;
+  animation-name: textoAnimado;
+  animation-duration: 1s;
+  animation-delay: 3s;
+}
+
+span:nth-child(3){
+  margin-left: 5px;
+  position: absolute;
+  color: #8234e8;
+  opacity: 0;
+  animation-name: textoAnimado;
+  animation-duration: 1s;
+  animation-delay: 4s;
+}
+
+span:nth-child(4){
+  margin-left: 5px;
+  position: absolute;
+  color: #8234e8;
+  opacity: 0;
+  animation-name: textoAnimado;
+  animation-duration: 1s;
+  animation-delay: 5s;
+}
+
+span:nth-child(5){
+  margin-left: 5px;
+  position: absolute;
+  color: #8234e8;
+  opacity: 0;
+  animation-name: textoAnimado;
+  animation-duration: 1s;
+  animation-delay: 6s;
+}
+
+span:nth-child(6){
+  margin-left: 5px;
+  position: absolute;
+  color: #8234e8;
+  opacity: 0;
+  animation-name: textoAnimado;
+  animation-duration: 1s;
+  animation-delay: 7s;
+}
+
+span:nth-child(7){
+  margin-left: 5px;
+  position: absolute;
+  color: #8234e8;
+  opacity: 0;
+  animation-name: textoAnimado;
+  animation-duration: 1s;
+  animation-delay: 8s;
+}
+
+@keyframes textoAnimado{
+  0%{
+    opacity: 1;
+  }
+}
