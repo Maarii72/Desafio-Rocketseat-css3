@@ -10,4 +10,4 @@
 ## Dia 2
 [Clique aqui para acessar a página do Projeto](https://dia2-desafio.netlify.app/)
 
-![gif](https://github.com/Maarii72/Desafio-Rocketseat-css3/blob/main/dia1gif.gif)
+![gif](https://github.com/Maarii72/Desafio-Rocketseat-css3/blob/main/dia2gif.gif)
