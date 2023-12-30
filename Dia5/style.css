@@ -1,0 +1,48 @@
+*{
+  margin: 0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: black;
+}
+
+.container{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.content{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-wrap: wrap;
+}
+
+img{
+  width: 20vw;
+  margin: 0.5rem;
+  cursor: pointer;
+  border-radius: 50%;
+  -webkit-filter: grayscale(100%);
+	filter: grayscale(100%);
+	filter: gray; /* IE */
+  transition: all ease 0.3s;
+}
+
+img:hover {
+	-webkit-filter: none;	
+	filter: none;	
+}
+
+@media (max-width: 485px) {
+  .content{
+    flex-flow: column wrap;
+  }
+
+  img{
+    width: 40vw;
+  }
+}
