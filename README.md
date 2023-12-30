@@ -18,3 +18,10 @@ Gerador de clip-path online, para auxiliar nas bordas: [bennettfeely](https://be
 [Clique aqui para acessar a página do Projeto](https://dia3-desafio.netlify.app/)
 
 ![gif](https://github.com/Maarii72/Desafio-Rocketseat-css3/blob/main/dia3gif.gif)
+
+## Dia 4
+Ícones utilizados: [Font Awesome](https://fontawesome.com/)
+
+[Clique aqui para acessar a página do Projeto](https://dia4-desafio.netlify.app/)
+
+![gif](https://github.com/Maarii72/Desafio-Rocketseat-css3/blob/main/dia4gif.gif)
